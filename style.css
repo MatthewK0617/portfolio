@@ -1,4 +1,9 @@
 body {
     background: linear-gradient(45deg, darkblue, darkred);
     color: gold;
+     
+}
+
+a {
+    color: whitesmoke;
 }
