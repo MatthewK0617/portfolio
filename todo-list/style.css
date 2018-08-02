@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(60deg, lightgreen, darkred);
+    color: midnightblue;
+     
+}
+
+button {
+    fill: black;
+
+}
+
+script {
+    list-style: circle;
+}
